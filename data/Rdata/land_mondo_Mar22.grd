@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2018-03-23 12:54:17
+[georeference]
+nrows=320
+ncols=640
+xmin=-180
+ymin=-90.181051136
+xmax=180.32
+ymax=89.978948864
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=9
+bandorder=BIL
+minvalue=0:0.0645624308713845:0.0182636566750679:1.79284109517992:0.0590551123023033:0:0:-1.49011611383365e-09:0
+maxvalue=0.981085785053185:9.56460166156292:2.27416811016434:108.639471962848:7.06062990427017:0.61245470325562:227.452054550078:0.999999976158142:0.999999977648258
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=terrestrial_richness:ann_mean_pp:ann_std_dev_pp:ann_cv_pp:ann_range_pp:sub_sd_pp:sub_cv_pp:sub_mean_pp:sub_range_pp

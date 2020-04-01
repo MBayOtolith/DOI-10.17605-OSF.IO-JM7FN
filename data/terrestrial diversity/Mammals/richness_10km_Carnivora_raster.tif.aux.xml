@@ -1,0 +1,210 @@
+<PAMDataset>
+  <Metadata />
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>33.5</HistMax>
+        <BucketCount>34</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|15629|15621|19311|53294|49847|44949|71688|98690|107088|107129|112320|92973|74115|66016|72864|69362|44729|39253|30557|26073|21729|16968|12663|8953|8025|5352|4072|2386|1257|529|106|35|3</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>OBJECTID</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>Value</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>Count</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>1</F>
+        <F>1</F>
+        <F>15629</F>
+      </Row>
+      <Row index="1">
+        <F>2</F>
+        <F>2</F>
+        <F>15621</F>
+      </Row>
+      <Row index="2">
+        <F>3</F>
+        <F>3</F>
+        <F>19311</F>
+      </Row>
+      <Row index="3">
+        <F>4</F>
+        <F>4</F>
+        <F>53294</F>
+      </Row>
+      <Row index="4">
+        <F>5</F>
+        <F>5</F>
+        <F>49847</F>
+      </Row>
+      <Row index="5">
+        <F>6</F>
+        <F>6</F>
+        <F>44949</F>
+      </Row>
+      <Row index="6">
+        <F>7</F>
+        <F>7</F>
+        <F>71688</F>
+      </Row>
+      <Row index="7">
+        <F>8</F>
+        <F>8</F>
+        <F>98690</F>
+      </Row>
+      <Row index="8">
+        <F>9</F>
+        <F>9</F>
+        <F>107088</F>
+      </Row>
+      <Row index="9">
+        <F>10</F>
+        <F>10</F>
+        <F>107129</F>
+      </Row>
+      <Row index="10">
+        <F>11</F>
+        <F>11</F>
+        <F>112320</F>
+      </Row>
+      <Row index="11">
+        <F>12</F>
+        <F>12</F>
+        <F>92973</F>
+      </Row>
+      <Row index="12">
+        <F>13</F>
+        <F>13</F>
+        <F>74115</F>
+      </Row>
+      <Row index="13">
+        <F>14</F>
+        <F>14</F>
+        <F>66016</F>
+      </Row>
+      <Row index="14">
+        <F>15</F>
+        <F>15</F>
+        <F>72864</F>
+      </Row>
+      <Row index="15">
+        <F>16</F>
+        <F>16</F>
+        <F>69362</F>
+      </Row>
+      <Row index="16">
+        <F>17</F>
+        <F>17</F>
+        <F>44729</F>
+      </Row>
+      <Row index="17">
+        <F>18</F>
+        <F>18</F>
+        <F>39253</F>
+      </Row>
+      <Row index="18">
+        <F>19</F>
+        <F>19</F>
+        <F>30557</F>
+      </Row>
+      <Row index="19">
+        <F>20</F>
+        <F>20</F>
+        <F>26073</F>
+      </Row>
+      <Row index="20">
+        <F>21</F>
+        <F>21</F>
+        <F>21729</F>
+      </Row>
+      <Row index="21">
+        <F>22</F>
+        <F>22</F>
+        <F>16968</F>
+      </Row>
+      <Row index="22">
+        <F>23</F>
+        <F>23</F>
+        <F>12663</F>
+      </Row>
+      <Row index="23">
+        <F>24</F>
+        <F>24</F>
+        <F>8953</F>
+      </Row>
+      <Row index="24">
+        <F>25</F>
+        <F>25</F>
+        <F>8025</F>
+      </Row>
+      <Row index="25">
+        <F>26</F>
+        <F>26</F>
+        <F>5352</F>
+      </Row>
+      <Row index="26">
+        <F>27</F>
+        <F>27</F>
+        <F>4072</F>
+      </Row>
+      <Row index="27">
+        <F>28</F>
+        <F>28</F>
+        <F>2386</F>
+      </Row>
+      <Row index="28">
+        <F>29</F>
+        <F>29</F>
+        <F>1257</F>
+      </Row>
+      <Row index="29">
+        <F>30</F>
+        <F>30</F>
+        <F>529</F>
+      </Row>
+      <Row index="30">
+        <F>31</F>
+        <F>31</F>
+        <F>106</F>
+      </Row>
+      <Row index="31">
+        <F>32</F>
+        <F>32</F>
+        <F>35</F>
+      </Row>
+      <Row index="32">
+        <F>33</F>
+        <F>33</F>
+        <F>3</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_MAXIMUM">33</MDI>
+      <MDI key="STATISTICS_MEAN">11.659887320982</MDI>
+      <MDI key="STATISTICS_STDDEV">5.2618045149197</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">27.6865867532291</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

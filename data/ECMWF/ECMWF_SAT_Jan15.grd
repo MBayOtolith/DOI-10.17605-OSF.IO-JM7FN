@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2018-02-05 11:50:48
+[georeference]
+nrows=360
+ncols=720
+xmin=-180
+ymin=-90
+xmax=180
+ymax=90
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=4
+bandorder=BIL
+minvalue=-52.4467282165852:0.229462883503141:1.10955620431952:-6344654.21833355
+maxvalue=31.6002584011141:23.86164897691:76.0853423487834:4060680.09408677
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=SAT_means:SAT_sd:SAT_range:SAT_cv

@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2017-12-05 10:22:40
+[georeference]
+nrows=474
+ncols=677
+xmin=-179.918408274904
+ymin=-89.6607436236544
+xmax=180.245591725096
+ymax=89.9852563763456
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=10
+bandorder=BIL
+minvalue=814.616306756912:120.201763793516:10.4586221981388:440.367780284252:18.5287718608931:8.83579527179288:71.4088028603857:76.3155246691022:0.0122502667672136:0.0124839564992443
+maxvalue=19838.6697299865:40308.1618861315:283.107211360263:100425.57059168:12155.0164477488:982.861547184182:1636.12384254443:99999:0.854557448486927:0.293363313012909
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=ann_mean_sun:ann_std_dev_sun:ann_cv_sun:ann_range_sun:sub_sd_sun:sub_cv_sun:sub_mean_sun:sub_range_sun:twel_inten:six_inten

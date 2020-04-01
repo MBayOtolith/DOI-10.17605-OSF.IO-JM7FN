@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2018-03-23 12:54:17
+[georeference]
+nrows=360
+ncols=720
+xmin=-180
+ymin=-90
+xmax=180
+ymax=90
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=9
+bandorder=BIL
+minvalue=0:0.217022756447217:0.0170193767639272:1.84598313590889:0.0471483021974564:0:0:0.00999999977648258:0
+maxvalue=1:38.6388576929484:17.1599903005947:287.947712549954:43.7123516768218:51.8081636829631:854.512797685496:74.2950668334961:74.2372572273016
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=marine_richness:ann_mean_pp:ann_std_dev_pp:ann_cv_pp:ann_range_pp:sub_sd_pp:sub_cv_pp:sub_mean_pp:sub_range_pp

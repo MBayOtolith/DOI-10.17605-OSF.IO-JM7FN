@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2018-02-05 11:50:44
+[georeference]
+nrows=360
+ncols=720
+xmin=-180
+ymin=-90
+xmax=180
+ymax=90
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=4
+bandorder=BIL
+minvalue=-2.09935408093827:0.000376503054398197:0.00120198268427885:-48747945.4988155
+maxvalue=30.1523802205281:10.3806420326724:30.671593146535:2495795.42180018
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=SST_means:SST_sd:SST_range:SST_cv

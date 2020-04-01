@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2017-11-10 14:30:33
+[georeference]
+nrows=474
+ncols=677
+xmin=-179.918408274904
+ymin=-89.6607436236544
+xmax=180.245591725096
+ymax=89.9852563763456
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=12
+bandorder=BIL
+minvalue=0:0:0:0:0:0:0:0:0:0:0:0
+maxvalue=1.62693367383557:1.43386860040634:1.58417585542985:1.73116673721548:1.93201811783403:1.91806434936031:1.87224901203344:2.51461016994798:1.81519415172778:1.499222315786:2.45794755021759:1.83833996993896
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=Jan:Feb:Mar:Apr:May:Jun:Jul:Aug:Sep:Oct:Nov:Dec
