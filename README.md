@@ -1,4 +1,4 @@
-# Biodiversity2018
+# Towards a global understanding of the drivers of marine and terrestrial biodiversity: unifying data, tools and domains
 repository of 2018 species richness analysis 
 
  -> Single_File_Script.R : Run's primary analyses utilized in paper submission. The script is well annotated
